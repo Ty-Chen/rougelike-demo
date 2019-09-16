@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 2023282778
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: firstpanel
+      Dependencies: {}
+    Info_1:
+      Name: secondpanel.assetbundle
+      Dependencies: {}
+    Info_2:
+      Name: firstpanel.assetbundle
+      Dependencies: {}
